@@ -1,0 +1,20 @@
+{
+    "PeopleListComponent":[
+        {
+        "name": "Mauli",
+        "age": "21",
+        "gender": "female"
+        },
+        {
+            "name": "SHivam",
+            "age": "21",
+            "gender": "Male"
+         },
+        {
+            "name": "shina",
+            "age": "21",
+            "gender": "female"
+        }
+    ]
+
+}
