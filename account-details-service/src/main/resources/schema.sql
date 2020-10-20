@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS accounts;
+
+CREATE TABLE accounts (accId INT(3) NOT NULL,custId INT(3) NOT NULL,bal INT(3) NOT NULL);
